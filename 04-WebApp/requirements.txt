@@ -7,7 +7,6 @@ opencv-python
 cmake
 argparse
 scipy
-dlib
 tensorflow
 imutils
 tika
@@ -24,5 +23,9 @@ opencv-python
 argparse
 scipy
 tensorflow
+altair
+requests
 imutils
-dlib
+pyaudio
+librosa
+# Install dlib on Ubuntu https://www.jianshu.com/p/44469d7d86b3
